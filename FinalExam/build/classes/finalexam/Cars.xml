@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><cars>        
+    <made name="Mercedes"> 
+        <model value="Cla"/>
+    </made>
+        
+    <made name="Bmw"> 
+        <model value="E46"/>
+    </made>
+        
+    <made name="Dacia"> 
+        <model value="1300"/>
+    </made>
+        
+    <made name="Renault"> 
+        <model value="Fluence"/>
+    </made>
+        
+    <made name="Skoda">  
+        <model value="Octavia"/>
+    </made>
+        
+    <made name="Porsche"> 
+        <model value="911"/>
+    </made>
+        
+    <made name="Audi"> 
+        <model value="A6"/>
+    </made>
+    
+    <made name="VW">  
+        <model value="Pasat CC"/>
+    </made>
+    
+    <made name="Fiat">    
+        <model value="Punto"/>
+    </made>
+</cars>
